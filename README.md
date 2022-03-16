@@ -29,6 +29,7 @@ If you have questions about me/programming, e.g. just write me through one of th
 - Mail: [shadowlp174@gmail.com](mailto:shadowlp174@gmail.com)
 - Discord: ShadowLp174#2717
 
+I've also got a homepage: [shadowlp174.4lima.de](https://shadowlp174.4lima.de)
 
 <!--
 **ShadowLp174/ShadowLp174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
