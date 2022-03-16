@@ -1,6 +1,29 @@
-### Hi there 👋
+# Hi I'm ShadowLp174
 
-*Working on this at the moment...*
+I'm a student from Germany/Slowakia whose passion is programming.  
+I like to create Discord bots, Minecraft Plugins, Front/Back-ends and more.
+
+My main languages are:
+
+- JavaScript
+- Java
+- PHP
+- SQL
+- CSS
+- (HTML)
+
+... but I'm open for more. :)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowlp174&hide=prs,contribs&theme=dark)
+
+
+### Contact me
+
+If you have questions about me/programming, e.g. just write me through one of the contacts:
+
+- Mail: [shadowlp174@gmail.com](mailto:shadowlp174@gmail.com)
+- Discord: ShadowLp174#2717
+
 
 <!--
 **ShadowLp174/ShadowLp174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
