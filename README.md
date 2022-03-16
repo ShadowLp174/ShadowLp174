@@ -16,6 +16,11 @@ My main languages are:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowlp174&hide=prs,contribs&theme=dark)
 
+### Things you might check out
+
+- The [Discord voice speech-to-text module](https://github.com/shadowlp174/discord-stt) using wit.ai
+- The [Discord poll bot](https://github.com/shadowlp174/poll-bot) with improved UI
+- The [chart engine](https://github.com/shadowlp174/chartjs) for use in the browser
 
 ### Contact me
 
