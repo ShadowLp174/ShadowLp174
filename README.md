@@ -1,6 +1,6 @@
 # Hi I'm ShadowLp174
 
-I'm a student from Germany/Slowakia whose passion is programming.  
+I'm a student from Germany/Slovakia whose passion is programming.  
 I like to create Discord bots, Minecraft Plugins, Front/Back-ends and more.
 
 My main languages are:
