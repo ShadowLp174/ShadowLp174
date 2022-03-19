@@ -19,6 +19,7 @@ My main languages are:
 ### Things you might check out
 
 - The [Discord voice speech-to-text module](https://github.com/shadowlp174/discord-stt) using wit.ai
+- The [Discord music bot with voice commands](https://github.com/ShadowLp174/stt-example-bot)
 - The [Discord poll bot](https://github.com/shadowlp174/poll-bot) with improved UI
 - The [chart engine](https://github.com/shadowlp174/chartjs) for use in the browser
 
