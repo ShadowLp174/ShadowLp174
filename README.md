@@ -23,6 +23,12 @@ My main languages are:
 - The [Discord poll bot](https://github.com/shadowlp174/poll-bot) with improved UI
 - The [chart engine](https://github.com/shadowlp174/chartjs) for use in the browser
 
+### My current (main) project
+
+A task manager for coordination of many clients that have to work together to achieve their goal. This is a preparation for the next r/place (if there is a next one).
+
+Our organization: [PRRQRC](https://github.com/PRRQRC) (The repos will be published when ready)
+
 ### Contact me
 
 If you have questions about me/programming, e.g. just write me through one of the contacts:
