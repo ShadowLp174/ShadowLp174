@@ -20,15 +20,18 @@ My main languages are:
 
 - The [Discord voice speech-to-text module](https://github.com/shadowlp174/discord-stt) using wit.ai
 - The [Discord music bot with voice commands](https://github.com/ShadowLp174/stt-example-bot)
+- The [NodeJS library for bot interaction with voice channels on revolt](https://github.com/ShadowLp174/revoice.js)
 - The [Discord poll bot](https://github.com/shadowlp174/poll-bot) with improved UI
 - The [Pixel Finder Bot](https://github.com/PRRQRC/pixel-finder-bot) for placed pixels during r/place 2022
 - The [chart engine](https://github.com/shadowlp174/chartjs) for use in the browser
 
-### My current (main) project
+### My current (main) project(s)
 
 A task manager for coordination of many clients that have to work together to achieve their goal. This is a preparation for the next r/place (if there is a next one).
 
 Our organization: [PRRQRC](https://github.com/PRRQRC) (The repos will be published when ready)
+
+[A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on the new open-source chat app Revolt.chat.
 
 ### Contact me
 
