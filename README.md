@@ -29,7 +29,7 @@ My main languages are:
 
 A task manager for coordination of many clients that have to work together to achieve their goal. This is a preparation for the next r/place (if there is a next one).
 
-Our organization: [PRRQRC](https://github.com/PRRQRC) (The repos will be published when ready)
+Our organization: [PRRQRC](https://github.com/PRRQRC)
 
 [A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on the new open-source chat app Revolt.chat.
 
@@ -41,18 +41,3 @@ If you have questions about me/programming, e.g. just write me through one of th
 - Discord: ShadowLp174#2717
 
 I've also got a homepage: [shadowlp174.4lima.de](https://shadowlp174.4lima.de)
-
-<!--
-**ShadowLp174/ShadowLp174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
