@@ -33,6 +33,8 @@ Our organization: [PRRQRC](https://github.com/PRRQRC)
 
 [A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on the new open-source chat app Revolt.chat.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shadowlp174)
+
 ### Contact me
 
 If you have questions about me/programming, e.g. just write me through one of the contacts:
