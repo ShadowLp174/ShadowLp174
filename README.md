@@ -14,6 +14,8 @@ My main languages are:
 
 ... but I'm open for more. :)
 
+![profile views counter](https://komarev.com/ghpvc/?username=shadowlp174)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowlp174&hide=prs,contribs&theme=dark)
 
 ### Things you might check out
