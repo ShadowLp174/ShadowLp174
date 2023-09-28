@@ -20,18 +20,16 @@ My main languages are:
 
 ### Things you might check out
 
+- The [NodeJS library for bot interaction with voice channels on Revolt](https://github.com/ShadowLp174/revoice.js)
 - The [Discord voice speech-to-text module](https://github.com/shadowlp174/discord-stt) using wit.ai
 - The [Discord music bot with voice commands](https://github.com/ShadowLp174/stt-example-bot)
-- The [NodeJS library for bot interaction with voice channels on revolt](https://github.com/ShadowLp174/revoice.js)
 - The [Discord poll bot](https://github.com/shadowlp174/poll-bot) with improved UI
 - The [Pixel Finder Bot](https://github.com/PRRQRC/pixel-finder-bot) for placed pixels during r/place 2022
-- The [chart engine](https://github.com/shadowlp174/chartjs) for use in the browser
+- [Remix - First Revolt music bot](https://github.com/remix-bot/revolt)
 
 ### My current (main) project(s)
 
-A task manager for coordination of many clients that have to work together to achieve their goal. This is a preparation for the next r/place (if there is a next one).
-
-Our organization: [PRRQRC](https://github.com/PRRQRC)
+My main focus is on [Remix](https://github.com/remix-bot) where I develop the [Revolt version](https://github.com/remix-bot/revolt) of the music bot. A lot of time went into that and if you're on Revolt, give it a try! :)
 
 [A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on the new open-source chat app Revolt.chat.
 
@@ -42,6 +40,6 @@ Our organization: [PRRQRC](https://github.com/PRRQRC)
 If you have questions about me/programming, e.g. just write me through one of the contacts:
 
 - Mail: [shadowlp174@gmail.com](mailto:shadowlp174@gmail.com)
-- Discord: ShadowLp174#2717
+- Discord: @shadowlp174
 
 I've also got a homepage: [shadowlp174.4lima.de](https://shadowlp174.4lima.de)
