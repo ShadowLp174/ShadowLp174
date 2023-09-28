@@ -1,15 +1,15 @@
-# Hi I'm ShadowLp174
+# Hi, I'm ShadowLp174
 
 I'm a student from Germany/Slovakia whose passion is programming.  
-I like to create Discord bots, Minecraft Plugins, Front/Back-ends and more.
+I like to create Discord/Revolt bots, Websites (front-end/back-end) and more.
 
 My main languages are:
 
 - JavaScript
 - Java
 - PHP
-- SQL
 - CSS
+- SQL
 - (HTML)
 
 ... but I'm open for more. :)
@@ -31,7 +31,7 @@ My main languages are:
 
 My main focus is on [Remix](https://github.com/remix-bot) where I develop the [Revolt version](https://github.com/remix-bot/revolt) of the music bot. A lot of time went into that and if you're on Revolt, give it a try! :)
 
-[A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on the new open-source chat app Revolt.chat.
+[A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on Revolt.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shadowlp174)
 
