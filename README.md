@@ -33,6 +33,10 @@ My main focus is on [Remix](https://github.com/remix-bot) where I develop the [R
 
 [A NodeJS library](https://github.com/ShadowLp174/revoice.js) for bot interactions with voice channels on Revolt.
 
+[You can support me on Ko-fi](https://ko-fi.com/shadowlp174)
+
+or
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shadowlp174)
 
 ### Contact me
